@@ -27,7 +27,7 @@ class Caboose {
         'template' => 'confirm'
       ),
       'jrating' => array(
-        'css' => 'jrating.jquery.css',
+        'css' => 'jRating.jquery.css',
         'js' => 'jRating.jquery.js',
         'template' => 'jrating'
       ),
